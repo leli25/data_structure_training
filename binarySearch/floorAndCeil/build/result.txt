@@ -1,0 +1,27 @@
+the floor index of 0 is -1.
+the ceil index of 0 is 0.The value is 1.
+
+the floor index of 1 is 0.The value is 1.
+the ceil index of 1 is 2.The value is 1.
+
+the floor index of 2 is 3.The value is 2.
+the ceil index of 2 is 7.The value is 2.
+
+the floor index of 3 is 7.The value is 2.
+the ceil index of 3 is 8.The value is 4.
+
+the floor index of 4 is 8.The value is 4.
+the ceil index of 4 is 9.The value is 4.
+
+the floor index of 5 is 10.The value is 5.
+the ceil index of 5 is 12.The value is 5.
+
+the floor index of 6 is 13.The value is 6.
+the ceil index of 6 is 15.The value is 6.
+
+the floor index of 7 is 15.The value is 6.
+the ceil index of 7 is 16.
+
+the floor index of 8 is 15.The value is 6.
+the ceil index of 8 is 16.
+

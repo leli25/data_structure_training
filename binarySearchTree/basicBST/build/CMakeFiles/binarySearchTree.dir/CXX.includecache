@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/FileOps.h
+string
+-
+iostream
+-
+fstream
+-
+vector
+-
+
+.././include/SequenceST.h
+iostream
+-
+cassert
+-
+
+/home/rock/Documents/dataStructure/binarySearchTree/basicBST/main.cpp
+iostream
+-
+vector
+-
+string
+-
+queue
+-
+FileOps.h
+/home/rock/Documents/dataStructure/binarySearchTree/basicBST/FileOps.h
+SequenceST.h
+/home/rock/Documents/dataStructure/binarySearchTree/basicBST/SequenceST.h
+
