@@ -1,3 +1,0 @@
-/home/rock/Documents/dataStructure/minHeap/build/CMakeFiles/rebuild_cache.dir
-/home/rock/Documents/dataStructure/minHeap/build/CMakeFiles/edit_cache.dir
-/home/rock/Documents/dataStructure/minHeap/build/CMakeFiles/main.dir
