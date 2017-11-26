@@ -4,6 +4,7 @@
 namespace UF1 {
 
 class UnionFind {
+
 private:
     int count;
     int *id;

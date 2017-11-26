@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rock/Documents/data_structure_training/ch6/union/union_basic/main.cpp
+unionFindTestHelper.h
+/home/rock/Documents/data_structure_training/ch6/union/union_basic/unionFindTestHelper.h
+
+/home/rock/Documents/data_structure_training/ch6/union/union_basic/unionFindTestHelper.h
+union_find.h
+/home/rock/Documents/data_structure_training/ch6/union/union_basic/union_find.h
+iostream
+-
+ctime
+-
+
+/home/rock/Documents/data_structure_training/ch6/union/union_basic/union_find.h
+

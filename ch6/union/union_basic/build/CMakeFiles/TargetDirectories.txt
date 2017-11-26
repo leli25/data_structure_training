@@ -1,0 +1,3 @@
+/home/rock/Documents/data_structure_training/ch6/union/union_basic/build/CMakeFiles/rebuild_cache.dir
+/home/rock/Documents/data_structure_training/ch6/union/union_basic/build/CMakeFiles/edit_cache.dir
+/home/rock/Documents/data_structure_training/ch6/union/union_basic/build/CMakeFiles/main.dir
